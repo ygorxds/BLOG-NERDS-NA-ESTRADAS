@@ -1,6 +1,8 @@
 body {
   background: #2ec4be;
   font: normal 15pt Arial;
+  text-align: center;
+  align-items: center;
 }
 
 header {
@@ -22,8 +24,9 @@ footer {
   text-align: center;
 }
  h1 {
-  max-height: 300px;
-
-}
-
+  
+  width: 500px;
+  height: 166.66px;
+  align-items: center;
+ }
 
